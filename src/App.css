@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&display=swap');
+/* font-family: 'Alkatra', cursive; */
+body{
+  background-color: rosybrown;
+}
+.addproduct{
+  color:green;
+}
+.atc{
+  font-family: 'Alkatra', cursive;
+  display: flex;
+  margin-top:10px;
+  text-align: center;
+  justify-content:center;
+  color: white;
+  border: none;
+  width: 20pxl;
+  width: 100px;
+  height: 30px;
+  padding:10px;
+  cursor: pointer;
+  border-radius: 10px;
+  background-color: rosybrown;
+  text-decoration: underline;
+  
+}
+.done{
+  color:green;
+}
+.enterquantity{
+  background-color: wheat;
+  height:20px;
+  border:none;
+  border-radius:8px;
+}
+.placeorder{
+  font-family: 'Alkatra', cursive;
+  display: flex;
+  margin-top:10px;
+  text-align: center;
+  justify-content:center;
+  color: white;
+  border: none;
+ background-color: rosybrown;
+ border: 2px solid wheat;
+ border-radius:10px;
+cursor:pointer;
+}
+h2{
+  color: rgb(58, 65, 94);
+  text-align: center;
+  font-size: 35px;
+  font-family: 'Alkatra', cursive;
+}
+.container{
+  /* background-color: rgb(134, 134, 165); */
+  max-width:1300px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.box{
+  /* background-color: rgb(214, 201, 165); */
+  width: 28%;
+  margin: 10px;
+  padding: 20px;
+  box-shadow: 2px 2px 10px white;
+
+}
+h5{
+  color: white;
+  text-align:center;
+  font-family: 'Alkatra', cursive;
+  font-size:15px;
+
+}
+p{
+
+  color: white;
+  font-family: 'Alkatra', cursive;
+ 
+}
+img{
+  width: 300px;
+  height:200px;
+  object-fit: contain;
+}
+.btn{
+  font-family: 'Alkatra', cursive;
+  display: flex;
+  text-align: center;
+  justify-content:center;
+  color: white;
+  border: none;
+  width: 20pxl;
+  width: 100px;
+  height: 30px;
+  padding:10px;
+  cursor: pointer;
+  border-radius: 10px;
+  background-color: wheat;
+  background-color: wheat;
+}
+.OS{
+  color:white;
+  background-color: rosybrown;
+  border: none;
+};
